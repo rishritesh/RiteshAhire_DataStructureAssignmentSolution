@@ -13,7 +13,7 @@ public class Driver {
 		//Stack<Integer> st=new Stack();
 		//Queue  q = new Queue();
 		Queue<Integer> q=new LinkedList();
-		System.out.println("enter the totsl no of floor in building");
+		System.out.println("enter the total no of floor in building");
 		Scanner sc=new Scanner(System.in);
 		int a=sc.nextInt();
 		for(int i=0; i<a;i++) {
